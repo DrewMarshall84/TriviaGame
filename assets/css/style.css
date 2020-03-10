@@ -29,10 +29,9 @@ body {
   }
   h1 {
     margin-bottom: 50px;
-    font-family: Geo, sans-serif;
-    font-size: 6.5em;
-    font-weight: bold;
-    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
   }
   h2 {
     margin-bottom: 25px;
@@ -71,7 +70,6 @@ height: auto;
 width: 70%;
 
 padding: 10px;
-/*Used to make the page scroll to see the background behind it*/
 margin-top: 5%;
 margin-bottom: 50%;
 
@@ -86,7 +84,6 @@ height: auto;
 width: 70%;
 
 padding: 10px;
-/*Used to make the page scroll to see the background behind it*/
 margin-top: 5%;
 margin-bottom: 50%;
 }
